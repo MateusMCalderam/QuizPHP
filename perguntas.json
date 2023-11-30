@@ -1,0 +1,40 @@
+{
+    "esportes": [
+      {
+        "pergunta": "Qual país sediou a Copa do Mundo de 2018?",
+        "alternativas": ["Brasil", "Alemanha", "Rússia", "França"],
+        "resposta_correta": "C"
+      },
+      {
+        "pergunta": "Quem é considerado o melhor jogador de basquete de todos os tempos?",
+        "alternativas": ["Kobe Bryant", "Michael Jordan", "LeBron James", "Magic Johnson"],
+        "resposta_correta": "B"
+      },
+      {
+        "pergunta": "Quantos jogadores compõem uma equipe de futebol durante uma partida?",
+        "alternativas": ["10", "11", "12", "9"],
+        "resposta_correta": "B"
+      },
+      {
+        "pergunta": "Em que esporte o termo 'hat-trick' é comumente usado?",
+        "alternativas": ["Futebol", "Hóquei no Gelo", "Tênis", "Golfe"],
+        "resposta_correta": "A"
+      },
+      {
+        "pergunta": "Qual é o esporte principal nos Jogos Olímpicos de Inverno?",
+        "alternativas": ["Esqui", "Patinação Artística", "Hóquei no Gelo", "Luge"],
+        "resposta_correta": "A"
+      },
+      {
+        "pergunta": "Quem detém o recorde de maior número de medalhas de ouro olímpicas?",
+        "alternativas": ["Usain Bolt", "Michael Phelps", "Simone Biles", "Jesse Owens"],
+        "resposta_correta": "B"
+      },
+      {
+        "pergunta": "Qual é o esporte mais popular nos Estados Unidos?",
+        "alternativas": ["Futebol Americano", "Basquete", "Beisebol", "Futebol"],
+        "resposta_correta": "A"
+      }
+    ]
+  }
+  
