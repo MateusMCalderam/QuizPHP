@@ -1,9 +1,14 @@
 <?php
-$respostaCorreta = $_SESSION['respostaCorreta'];
-$respostaAtual = $_POST['respostaAtual'];
+session_start();
 
-$pontuacao = 0;
+$respotaCerta =  $_SESSION['perguntaAtual']['respostaCorreta'];
+$respotaEnviada =  $_POST['alternativa'];
 
-if($respostaAtual == $respostaCorreta){
-    $pontuacao++;
+
+if (!isset($_SESSION['numeroAcertos'])) {
+    $_SESSION['numeroAcertos']= 0;
+}
+
+if($respotaEnviada == $respostaCerta){
+    $_SESSION['numeroAcertos']++;
 }
