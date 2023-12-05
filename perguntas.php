@@ -11,7 +11,7 @@
     <header>
 <?php
 session_start();
-    echo "<div>".$_SESSION["icone"]."</div><div>".$_SESSION["tema"]."</div><div id='contador'>60</div></header>";
+    echo "<div>".'$_SESSION["icone"]'."</div><div>".'$_SESSION["tema"]'."</div><div id='contador'>60</div></header>";
     echo "<main><form action='confereResposta.php' method='post'><p>".$_SESSION['perguntaAtual']['pergunta']."</p>";
     foreach($_SESSION['perguntaAtual']['alternativas'] as $ind => $alt){
         echo "<input type='radio' class='opt' name='alternativa' id='".$ind."' value='".$ind."'><label for='".$ind."'>".$alt."</label>";

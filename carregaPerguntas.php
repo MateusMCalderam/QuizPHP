@@ -23,5 +23,4 @@ if ($_SESSION['perguntasFeitas'] <= 5) {
     header('location: perguntas.php');
 } else {
     header('location: paginaFinal.php');
-    session_destroy();
 }
