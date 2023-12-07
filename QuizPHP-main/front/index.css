@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 80px;
+}
+
+body {
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f5f5;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 500px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+form {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 400px;
+    width: 600px;
+}
+
+input{
+    font-size: 1.4rem;
+    padding: 10px;
+    width: 60%;
+}
+select{
+    font-size: 1.2rem;
+    width: 60%;
+}
+input,select{
+    height: 40px;
+}
+#btn {
+    width: 120px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: rgb(33, 189, 33);
+    border: 1px solid #858585;
+    color: white;
+    border-radius: 5px;
+}
+#ranking{
+    margin-top: 6%;
+    padding: 30px;
+    background-color: #8041bf;
+    width: 300px;
+    border: 3px solid #3c0770;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 100px;
+    overflow: visible;
+}
+h2{
+    color: #3c0770;
+    text-align: center;
+    font-size: 2.3rem;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+p{
+    margin-top: 5px;
+    margin-left: 35px;
+    text-align: left;
+    font-size: 1.1rem;
+    text-transform: capitalize;
+}
+.jogador{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #3c0770;
+    color: #f5f5f5;
+    text-align: left;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,362 @@
+{
+    "esportes": [
+      {
+        "pergunta": "Qual país sediou os Jogos Olímpicos de Verão de 2016?",
+        "alternativas": ["Estados Unidos", "Rússia", "Brasil", "China"],
+        "resposta_correta": 2,
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2021/07/19/750x500/1_olimpiada_toquio_4-16456562.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Qual jogador de futebol é conhecido como 'CR7'?",
+        "alternativas": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Andres Iniesta"],
+        "resposta_correta": 1,
+        "imagem": "https://cdn0-production-images-kly.akamaized.net/gDz_-OzWq8L8QHHsdMLnD-tshIg=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1108070/original/038175800_1452536433-MESOO.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Em que esporte a expressão 'hat-trick' é comumente utilizada?",
+        "alternativas": ["Tênis", "Futebol", "Basquete", "Golfe"],
+        "resposta_correta": 1,
+        "imagem": "https://img.freepik.com/vetores-premium/conjunto-de-bolas-de-diferentes-esportes-em-uma-pilha-equipamento-para-futebol-basquete-beisebol-voleibol-tenis-e-golfe_185107-75.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Quem é considerado o 'Rei do Basquete' e teve uma carreira brilhante na NBA?",
+        "alternativas": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kevin Durant"],
+        "resposta_correta": 2,
+        "imagem": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0222%2Fr977678_1296x729_16%2D9.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Qual é o esporte principal nos Jogos Paralímpicos?",
+        "alternativas": ["Atletismo", "Natação", "Tênis de mesa", "Esgrima em cadeira de rodas"],
+        "resposta_correta": 0,
+        "imagem": "https://classic.exame.com/wp-content/uploads/2021/08/51394603879_1491a8c36f_k.jpg?quality=70&strip=info&w=1024"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Quem detém o recorde mundial dos 100 metros rasos no atletismo masculino?",
+        "alternativas": ["Usain Bolt", "Asafa Powell", "Justin Gatlin", "Tyson Gay"],
+        "resposta_correta": 0,
+        "imagem": "https://i.ytimg.com/vi/EpxD1dqxVTk/maxresdefault.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Em que cidade ocorreu a final da Copa do Mundo de 2018?",
+        "alternativas": ["Rio de Janeiro", "Moscou", "Paris", "Berlim"],
+        "resposta_correta": 1,
+        "imagem": "https://classic.exame.com/wp-content/uploads/2018/01/dujsszdwsaeox1d.jpg?quality=70&strip=info&w=1200"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Quem é o atual campeão da NBA (National Basketball Association) na temporada de 2022-2023?",
+        "alternativas": ["Los Angeles Lakers", "Golden State Warriors", "Denver Nuggets", "Brooklyn Nets"],
+        "resposta_correta": 2,
+        "imagem": "https://pbs.twimg.com/media/CHpn6uNUMAAzpUc.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Quem é o maior artilheiro da história da seleção brasileira de futebol?",
+        "alternativas": ["Romário", "Pelé", "Ronaldo Nazário", "Neymar"],
+        "resposta_correta": 3,
+        "imagem": "https://lendasdofutebol.com/wp-content/uploads/2022/09/maiores-artilheiros-brasil-copa.jpg"
+        ,"icone": "fa-solid fa-football"
+      },
+      {
+        "pergunta": "Em que ano os Jogos Olímpicos foram pela última vez realizados no Brasil?",
+        "alternativas": ["2012", "2016", "2008", "2004"],
+        "resposta_correta": 1,
+        "imagem": "https://images.impresa.pt/sicnot/2016-08-06-RTSL9JT.jpg"
+        ,"icone": "fa-solid fa-football"
+      }
+    ],
+    "historia": [
+      {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "alternativas": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "resposta_correta": 2,
+        "imagem": "https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/17868_5C0D6F63E4154095.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Qual evento marcou o início da Primeira Guerra Mundial?",
+        "alternativas": ["Ataque a Pearl Harbor", "Tratado de Versalhes", "Assassinato de Franz Ferdinand", "Revolução Russa"],
+        "resposta_correta": 2,
+        "imagem": "https://s1.static.brasilescola.uol.com.br/be/2023/05/grupo-de-soldados-irlandeses-em-uma-trincheira-durante-a-batalha-do-somme-travada-durante-a-primeira-guerra-mundial.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Em que ano a Revolução Francesa começou?",
+        "alternativas": ["1776", "1789", "1804", "1815"],
+        "resposta_correta": 1,
+        "imagem": "https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/c50717b417f48d45607fbb586221edc1"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Quem foi o líder da Revolução Cubana em 1959?",
+        "alternativas": ["Fidel Castro", "Che Guevara", "Batista", "Fulgencio"],
+        "resposta_correta": 0,
+        "imagem": "https://lavrapalavra.com/wp-content/uploads/2020/11/fidel.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Qual foi o imperador romano conhecido por sua extravagância e crueldade?",
+        "alternativas": ["Júlio César", "Augusto", "Nero", "Constantino"],
+        "resposta_correta": 2,
+        "imagem": "https://qph.cf2.quoracdn.net/main-qimg-08fc127c615190d3632c69d14d753bcf-lq"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Qual foi a principal causa da Guerra Civil Americana?",
+        "alternativas": ["Disputa territorial", "Abolição da escravidão", "Impostos elevados", "Controle sobre os rios"],
+        "resposta_correta": 1,
+        "imagem": "https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2019/11/guerra-civil-americana-entenda-o-motivo-e-suas-consequencias.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Quem foi a primeira mulher a ganhar um Prêmio Nobel?",
+        "alternativas": ["Marie Curie", "Amelia Earhart", "Jane Addams", "Rosa Parks"],
+        "resposta_correta": 0,
+        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/11/marie-curie-principal.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Qual foi a dinastia que governou a China por mais tempo?",
+        "alternativas": ["Zhou", "Han", "Ming", "Tang"],
+        "resposta_correta": 0,
+        "imagem": "https://i.pinimg.com/600x/53/19/b0/5319b07fbaad894639120b9cb534b73b.jpg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Em que ano a Segunda Guerra Mundial terminou?",
+        "alternativas": ["1945", "1939", "1941", "1947"],
+        "resposta_correta": 0,
+        "imagem": "https://static.significados.com.br/foto/bc84-ok-invasion-polen-1939-1024x667-1024x585.jpeg"
+        ,"icone": "fa-solid fa-book-bookmark"
+      },
+      {
+        "pergunta": "Quem foi o líder sul-africano que combateu o apartheid e se tornou presidente em 1994?",
+        "alternativas": ["Nelson Mandela", "Desmond Tutu", "F.W. de Klerk", "Steve Biko"],
+        "resposta_correta": 0,
+        "imagem": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/07/Nelson-Mandela-com-o-punho-cerrado.jpg?quality=100&strip=info&w=720&crop=1"
+        ,"icone": "fa-solid fa-book-bookmark"
+      }
+    ],
+    "ciencia": [
+      {
+        "pergunta": "Qual é a menor partícula subatômica conhecida?",
+        "alternativas": ["Próton", "Nêutron", "Elétron", "Quark"],
+        "resposta_correta": 3,
+        "imagem": "https://brazilastronomy.files.wordpress.com/2014/11/subatomic-particle.jpg?w=700"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é o processo pelo qual as plantas convertem a luz solar em energia?",
+        "alternativas": ["Respiração celular", "Fotossíntese", "Fermentação", "Transpiração"],
+        "resposta_correta": 1,
+        "imagem": "https://static.escolakids.uol.com.br/2019/05/fotossintese.jpg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Em que camada da atmosfera terrestre ocorrem os fenômenos meteorológicos, como chuvas e ventos?",
+        "alternativas": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera"],
+        "resposta_correta": 0,
+        "imagem": "https://s1.static.brasilescola.uol.com.br/img/2018/10/atmosfera-terrestre(1).jpeg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Quem propôs a teoria da relatividade?",
+        "alternativas": ["Isaac Newton", "Albert Einstein", "Galileu Galilei", "Niels Bohr"],
+        "resposta_correta": 1,
+        "imagem": "https://thpanorama.com/img/images/los-65-cientficos-ms-famosos-e-importantes-de-la-historia.jpg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é a unidade de medida da carga elétrica?",
+        "alternativas": ["Volt", "Ampère", "Coulomb", "Ohm"],
+        "resposta_correta": 2,
+        "imagem": "https://fisicaiiutn.files.wordpress.com/2012/04/coulomb_balanza.jpg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é o planeta mais próximo do Sol em nosso sistema solar?",
+        "alternativas": ["Vênus", "Marte", "Mercúrio", "Júpiter"],
+        "resposta_correta": 2,
+        "imagem": "https://www.ngenespanol.com/wp-content/uploads/2023/07/por-que-mercurio-es-tan-frio-si-esta-tan-cerca-del-sol-planeta.jpg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é a principal função dos leucócitos no corpo humano?",
+        "alternativas": ["Transporte de oxigênio", "Combate a infecções", "Digestão de alimentos", "Coagulação sanguínea"],
+        "resposta_correta": 1,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAFjR-TuaGsZNfaDBS-VyopCcP7eE1t2kwEkaLUeGtIwPIesO3NzHgTRzivtskZxKbaI&usqp=CAU"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é a fórmula química da água?",
+        "alternativas": ["CO2", "H2O", "CH4", "O2"],
+        "resposta_correta": 1,
+        "imagem": "https://services.meteored.com/img/article/fabrica-agua-formula-molecular-hidrolisis-fotolisis-catalizador-contaminacion-hidrogeno-energia-1697702428803_1280.jpeg"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Qual é a velocidade da luz no vácuo?",
+        "alternativas": ["300.000 km/s", "150.000 km/s", "600.000 km/s", "900.000 km/s"],
+        "resposta_correta": 0,
+        "imagem": "https://i0.wp.com/areamilitarof.com/wp-content/uploads/2023/08/842c28ad-f6dbccb3e368477f483cf3c193099bfd.jpg?fit=1088%2C612&ssl=1"
+        ,"icone": "fa-solid fa-atom"
+      },
+      {
+        "pergunta": "Quem é conhecido como o pai da genética?",
+        "alternativas": ["Charles Darwin", "Gregor Mendel", "Rosalind Franklin", "James Watson"],
+        "resposta_correta": 1,
+        "imagem": "https://static.wixstatic.com/media/8619ac_750aa2cae02441fd95cd4464741f3ea9~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,enc_auto/8619ac_750aa2cae02441fd95cd4464741f3ea9~mv2.jpg"
+        ,"icone": "fa-solid fa-atom"
+      }
+    ],
+    "geografia": [
+      {
+        "pergunta": "Qual é o maior continente do mundo?",
+        "alternativas": ["América do Sul", "África", "Ásia", "Europa"],
+        "resposta_correta": 2,
+        "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/efef3614ede7917e5ea7014dec6fb665.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "alternativas": ["Nilo", "Amazonas", "Yangtzé", "Mississippi"],
+        "resposta_correta": 0,
+        "imagem": "https://assets-cdn.kangaroo.com.br/images/egito/navegacao-pelo-rio-nilo-no-egito.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Em que continente está localizado o Deserto do Saara?",
+        "alternativas": ["América do Sul", "África", "Ásia", "Europa"],
+        "resposta_correta": 1,
+        "imagem": "https://alphacwb.com.br/wp-content/uploads/2023/04/deserto-saara.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Qual é o país mais populoso do mundo?",
+        "alternativas": ["Índia", "China", "Estados Unidos", "Brasil"],
+        "resposta_correta": 0,
+        "imagem": "https://i0.wp.com/4.bp.blogspot.com/-aHfI-nCXEfg/Vbtut_S164I/AAAAAAAAqi0/HQHRFBRZevE/s640/locais-mais-populosos-do-mundo_3.jpg?resize=640%2C411"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Quais são os cinco grandes lagos da América do Norte?",
+        "alternativas": ["Superior, Michigan, Huron, Erie, Ontário", "Titicaca, Baikal, Vostok, Tanganica, Malawi", "Vitória, Tanganica, Niassa, Malawi, Turkana", "Balaton, Onega, Ladoga, Taimyr, Khanka"],
+        "resposta_correta": 0,
+        "imagem": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/imj/nuestrorumbo/L/Los-5-Grandes-Lagos-de-Norteamerica.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Qual é a capital do Canadá?",
+        "alternativas": ["Vancouver", "Toronto", "Ottawa", "Montreal"],
+        "resposta_correta": 2,
+        "imagem": "https://static.wixstatic.com/media/cd7275_233b4ea9fe4a4a3aa5383b1796176c36~mv2.jpg/v1/fill/w_640,h_480,al_c,lg_1,q_80,enc_auto/cd7275_233b4ea9fe4a4a3aa5383b1796176c36~mv2.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Em que país se encontra o Monte Everest, a montanha mais alta do mundo?",
+        "alternativas": ["China", "Nepal", "Índia", "Butão"],
+        "resposta_correta": 1,
+        "imagem": "https://s4.static.brasilescola.uol.com.br/be/2023/04/vista-do-monte-everest.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Qual é o ponto mais baixo da Terra, localizado na fossa das Marianas?",
+        "alternativas": ["Grande Fossa Azul", "Challenger Deep", "Sonda Porto Rico", "Fossa das Filipinas"],
+        "resposta_correta": 1,
+        "imagem": "https://segredosdomundo.r7.com/wp-content/uploads/2017/09/fossa-das-marianas.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Que deserto é conhecido como o mais frio do mundo?",
+        "alternativas": ["Deserto de Gobi", "Deserto do Atacama", "Deserto de McMurdo", "Deserto de Taklamakan"],
+        "resposta_correta": 2,
+        "imagem": "https://4.bp.blogspot.com/-d11U8EfT0tk/T_F2EfCjSfI/AAAAAAAAbo0/aX4ntt2KjAM/s1600/dry_valley_antartida.jpg"
+        ,"icone": "fa-solid fa-earth-americas"
+      },
+      {
+        "pergunta": "Qual é a linha imaginária que divide a Terra em hemisfério ocidental e oriental?",
+        "alternativas": ["Linha do Equador", "Meridiano de Greenwich", "Trópico de Câncer", "Trópico de Capricórnio"],
+        "resposta_correta": 1,
+        "imagem": "https://cdn0.unprofesor.com/es/posts/8/7/4/paises_por_donde_pasa_el_meridiano_de_greenwich_2478_1_600.webp"
+        ,"icone": "fa-solid fa-earth-americas"
+      }
+    ],
+    "entretenimento": [
+      {
+        "pergunta": "Qual ator interpretou o personagem Jack Dawson no filme 'Titanic'?",
+        "alternativas": ["Leonardo DiCaprio", "Tom Hanks", "Brad Pitt", "Johnny Depp"],
+        "resposta_correta": 0,
+        "imagem": "https://lorena.r7.com/public/assets/img/postagens/post_29481.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Qual é o nome do protagonista da série de televisão 'Breaking Bad'?",
+        "alternativas": ["Walter White", "Jesse Pinkman", "Saul Goodman", "Hank Schrader"],
+        "resposta_correta": 0,
+        "imagem": "https://img.r7.com/images/2014/01/14/29extd9bq1_5wk4zngp2f_file.jpg?dimensions=771x420&no_crop=true"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Quem dirigiu o filme 'A Origem'?",
+        "alternativas": ["Christopher Nolan", "Quentin Tarantino", "Steven Spielberg", "James Cameron"],
+        "resposta_correta": 0,
+        "imagem": "https://i.ytimg.com/vi/q4R-Qhs44T4/maxresdefault.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Em que ano foi lançado o primeiro episódio da série 'Stranger Things'?",
+        "alternativas": ["2015", "2016", "2017", "2018"],
+        "resposta_correta": 1,
+        "imagem": "https://www.techadvisor.com/wp-content/uploads/2022/11/stranger-things-netflix.jpg?quality=50&strip=all"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Qual é o nome do universo cinematográfico da Marvel?",
+        "alternativas": ["DC Extended Universe", "X-Men Universe", "Marvel Cinematic Universe", "Spider-Verse"],
+        "resposta_correta": 2,
+        "imagem": "https://br.web.img2.acsta.net/r_654_368/newsv7/22/07/24/04/27/3625205.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Quem interpretou o Coringa no filme 'Coringa' de 2019?",
+        "alternativas": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Jack Nicholson"],
+        "resposta_correta": 0,
+        "imagem": "https://pixelnerd.com.br/wp-content/uploads/2020/01/curiosidades_sobre_joker_coringa_2019-1.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Qual é o nome do dragão da personagem Daenerys Targaryen em 'Game of Thrones'?",
+        "alternativas": ["Drogon", "Rhaegal", "Viserion", "Smaug"],
+        "resposta_correta": 0,
+        "imagem": "https://conteudo.imguol.com.br/c/entretenimento/f4/2019/05/05/daenerys-emilia-clarke-ao-lado-de-drogon-em-cena-do-quarto-episodio-da-oitava-temporada-de-game-of-thrones-1557099804138_v2_900x506.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Quem é o autor da série de livros 'As Crônicas de Gelo e Fogo', que inspirou 'Game of Thrones'?",
+        "alternativas": ["J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien", "Suzanne Collins"],
+        "resposta_correta": 1,
+        "imagem": "https://noticiasdezallar.files.wordpress.com/2014/07/sem-tc3adtulo5.png?w=2560&h=1440"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Qual é o nome da cidade onde se passa a maior parte da trama do filme 'La La Land'?",
+        "alternativas": ["New York City", "Los Angeles", "Chicago", "San Francisco"],
+        "resposta_correta": 1,
+        "imagem": "https://www.redfin.com/blog/wp-content/uploads/2023/02/GettyImages-1068309248.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      },
+      {
+        "pergunta": "Qual é o título original do primeiro livro da série 'Harry Potter'?",
+        "alternativas": ["Harry Potter and the Goblet of Fire", "Harry Potter and the Philosopher's Stone", "Harry Potter and the Half-Blood Prince", "Harry Potter and the Order of the Phoenix"],
+        "resposta_correta": 1,
+        "imagem": "https://media.timeout.com/images/105629726/750/422/image.jpg"
+        ,"icone": "fa-solid fa-clapperboard"
+      }
+    ]
+  }
